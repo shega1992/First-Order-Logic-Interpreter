@@ -12,6 +12,6 @@ To parse: log -parse
 
 To get result: log -get
 
-acronyms for operands: T - true, F -false
+acronyms for operands: T - true; F -false
 
-acronyms for operators: -> - implication, | - or, & - and, ! - not, () - grouping
+acronyms for operators: -> - implication; | - or; & - and; ! - not; () - grouping.
